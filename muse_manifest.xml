@@ -1,0 +1,370 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jaspublicidad.com" resolutions="1x" timestamp="1652115409892">
+  <folder name="css">
+    <file name="site_global.css" crc="423972243"/>
+    <file name="master_b-master.css" crc="454484469" ref="tazas-gorras-y-playeras:portalatas-y-portabotellas:portagafetes:contacto"/>
+    <file name="master_a-master.css" crc="4180703113" ref="index"/>
+    <file name="tazas-gorras-y-playeras.css" crc="219139573" ref="tazas-gorras-y-playeras"/>
+    <file name="portalatas-y-portabotellas.css" crc="434001475" ref="portalatas-y-portabotellas"/>
+    <file name="portagafetes.css" crc="68799165" ref="portagafetes"/>
+    <file name="contacto.css" crc="4276986886" ref="contacto"/>
+    <file name="index.css" crc="149110733" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-extrabold.woff" crc="19082130"/>
+    <file name="poppins-extrabold.eot" crc="427519666"/>
+    <file name="poppins-extrabold.svg" crc="153299198"/>
+    <file name="poppins-regular.woff" crc="154955377"/>
+    <file name="poppins-regular.eot" crc="4146651022"/>
+    <file name="poppins-regular.svg" crc="4127021723"/>
+    <file name="poppins-medium.woff" crc="4279392126"/>
+    <file name="poppins-medium.eot" crc="3886945878"/>
+    <file name="poppins-medium.svg" crc="475224925"/>
+    <file name="poppins-semibold.woff" crc="3911943359"/>
+    <file name="poppins-semibold.eot" crc="3873576317"/>
+    <file name="poppins-semibold.svg" crc="4292749565"/>
+    <file name="poppins-bold.woff" crc="81452874"/>
+    <file name="poppins-bold.eot" crc="244214702"/>
+    <file name="poppins-bold.svg" crc="3823492863"/>
+    <file name="poppins-extrabold.woff" crc="19082130"/>
+    <file name="poppins-extrabold.eot" crc="427519666"/>
+    <file name="poppins-extrabold.svg" crc="153299198"/>
+    <file name="poppins-regular.woff" crc="154955377"/>
+    <file name="poppins-regular.eot" crc="4146651022"/>
+    <file name="poppins-regular.svg" crc="4127021723"/>
+    <file name="poppins-medium.woff" crc="4279392126"/>
+    <file name="poppins-medium.eot" crc="3886945878"/>
+    <file name="poppins-medium.svg" crc="475224925"/>
+    <file name="poppins-semibold.woff" crc="3911943359"/>
+    <file name="poppins-semibold.eot" crc="3873576317"/>
+    <file name="poppins-semibold.svg" crc="4292749565"/>
+    <file name="poppins-bold.woff" crc="81452874"/>
+    <file name="poppins-bold.eot" crc="244214702"/>
+    <file name="poppins-bold.svg" crc="3823492863"/>
+    <file name="poppins-extrabold.woff" crc="19082130"/>
+    <file name="poppins-extrabold.eot" crc="427519666"/>
+    <file name="poppins-extrabold.svg" crc="153299198"/>
+    <file name="poppins-regular.woff" crc="154955377"/>
+    <file name="poppins-regular.eot" crc="4146651022"/>
+    <file name="poppins-regular.svg" crc="4127021723"/>
+    <file name="poppins-medium.woff" crc="4279392126"/>
+    <file name="poppins-medium.eot" crc="3886945878"/>
+    <file name="poppins-medium.svg" crc="475224925"/>
+    <file name="poppins-semibold.woff" crc="3911943359"/>
+    <file name="poppins-semibold.eot" crc="3873576317"/>
+    <file name="poppins-semibold.svg" crc="4292749565"/>
+    <file name="poppins-bold.woff" crc="81452874"/>
+    <file name="poppins-bold.eot" crc="244214702"/>
+    <file name="poppins-bold.svg" crc="3823492863"/>
+    <file name="poppins-extrabold.woff" crc="19082130"/>
+    <file name="poppins-extrabold.eot" crc="427519666"/>
+    <file name="poppins-extrabold.svg" crc="153299198"/>
+    <file name="poppins-regular.woff" crc="154955377"/>
+    <file name="poppins-regular.eot" crc="4146651022"/>
+    <file name="poppins-regular.svg" crc="4127021723"/>
+    <file name="poppins-medium.woff" crc="4279392126"/>
+    <file name="poppins-medium.eot" crc="3886945878"/>
+    <file name="poppins-medium.svg" crc="475224925"/>
+    <file name="poppins-semibold.woff" crc="3911943359"/>
+    <file name="poppins-semibold.eot" crc="3873576317"/>
+    <file name="poppins-semibold.svg" crc="4292749565"/>
+    <file name="poppins-bold.woff" crc="81452874"/>
+    <file name="poppins-bold.eot" crc="244214702"/>
+    <file name="poppins-bold.svg" crc="3823492863"/>
+    <file name="poppins-extrabold.woff" crc="19082130"/>
+    <file name="poppins-extrabold.eot" crc="427519666"/>
+    <file name="poppins-extrabold.svg" crc="153299198"/>
+    <file name="poppins-bold.woff" crc="81452874"/>
+    <file name="poppins-bold.eot" crc="244214702"/>
+    <file name="poppins-bold.svg" crc="3823492863"/>
+    <file name="poppins-semibold.woff" crc="3911943359"/>
+    <file name="poppins-semibold.eot" crc="3873576317"/>
+    <file name="poppins-semibold.svg" crc="4292749565"/>
+    <file name="poppins-regular.woff" crc="154955377"/>
+    <file name="poppins-regular.eot" crc="4146651022"/>
+    <file name="poppins-regular.svg" crc="4127021723"/>
+    <file name="poppins-medium.woff" crc="4279392126"/>
+    <file name="poppins-medium.eot" crc="3886945878"/>
+    <file name="poppins-medium.svg" crc="475224925"/>
+    <file name="poppins-italic.woff" crc="4100046870"/>
+    <file name="poppins-italic.eot" crc="211545987"/>
+    <file name="poppins-italic.svg" crc="4195016237"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="museutils.js" crc="3939489907" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="webpro.js" crc="3856315280" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras"/>
+    <file name="form_check.php" crc="4108222811" ref="contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacto"/>
+    <file name="form_process.php" crc="260214869" ref="contacto"/>
+    <file name="form-u4545.php" crc="4124849982" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="413345872" ref="index"/>
+    <file name="slide-1-h-portagafetes-jas-publicidad.jpg" crc="495260073" ref="index:portagafetes">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras"/>
+    <file name="pasted-svg-212883x84.svg" crc="532039382" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="pasted svg 212883x84_poster_.png" crc="3876134258" ref="index"/>
+    <file name="f-jas-publicidad-home.png" crc="511149311" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-guide-portagafetes-jas-publicidad.png" crc="131703300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-1-h-portagafetes-jas-publicidad.png" crc="8553751" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-3-h-portagafetes-jas-publicidad.jpg" crc="428329032" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-2-h-portagafetes-jas-publicidad.jpg" crc="4241956673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-guide-2-portagafetes-jas-publicidad.png" crc="3951052739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-4-h-catalogo-portagafetes-jas-publicidad.jpg" crc="389959825" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-mail-s-portagafetes-jas-publicidad.png" crc="4221884499" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-wtp-s-portagafetes-jas-publicidad.png" crc="3862330871" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="logo-foot-jas-publicidad-home.png" crc="4080791367" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-wtp--portagafertes-jas-publicidad.png" crc="3781180270" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-phone-portagafetes-jas-publicidad.png" crc="4040044619" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-mail-portagafetes-jas-publicidad.png" crc="3784794684" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-time-portagafetes-jas-publicidad.png" crc="4260327263" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="icon-check-portagafetes-jas-publicidad.png" crc="501100345" seo="true" ref="index:portagafetes:portalatas-y-portabotellas:tazas-gorras-y-playeras:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img-1-portagafetes-jas-publicidad.png" crc="3897495032" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="line-1-portagafetes-jas-publicidad.png" crc="4026681885" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="line-2-portagafetes-jas-publicidad.png" crc="97344564" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="line-3-portagafetes-jas-publicidad.png" crc="3776777023" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="icon-mundo-portagafetes-jas-publicidad.png" crc="4008596532" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="icon-personalizacion-portagafetes-jas-publicidad.png" crc="4209611037" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="icon-resitencia-portagafetes-jas-publicidad.png" crc="4210633149" seo="true" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="barrotada-portagafetes-jas-publicidad.jpg" crc="39810517" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="satinado-portagafetes-jas-publicidad.jpg" crc="387753043" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="popotillo-portagafetes-jas-publicidad.jpg" crc="3996837759" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="palmita-poliester-portagafetes-jas-publicidad.jpg" crc="185146028" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="img-2-portagafetes-jas-publicidad.jpg" crc="3781984040" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-bandola-yoyo-resina-portagafetes-jas-publicidad.jpg" crc="4187946343" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-broche-bandola-tipo-perico-portagafetes-jas-publicidad.jpg" crc="3804187863" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-bandola-tipo-perico-portagafetes-jas-publicidad.jpg" crc="118163087" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-bandola-sencilla-portagafetes-jas-publicidad.jpg" crc="15576789" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-bandola-sencilla-plastico-portagafetes-jas-publicidad.jpg" crc="3774436375" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-broche-anti-ahorcamiento-portagafetes-jas-publicidad.jpg" crc="143878205" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-destapador-bandola-tipo-perico-portagafetes-jas-publicidad.jpg" crc="3987769097" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="accesorio-broche-bandola-sencillo-portagafetes-jas-publicidad.jpg" crc="29967116" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="tazas-muestra-portagafetes-jas-publicidad.jpg" crc="483199171" ref="portagafetes">
+      <caption webpage="portagafetes" alt=""/>
+    </file>
+    <file name="playeras-muestra-portagafetes-jas-publicidad.jpg" crc="13880966" ref="portagafetes:portalatas-y-portabotellas">
+      <caption webpage="portagafetes" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="slide-portalatas-y-portabotellas-portagafetes-jas-publicidad.jpg" crc="313659236" ref="portalatas-y-portabotellas:tazas-gorras-y-playeras">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="img1-portalatas-y-portabotellas-portagafetes-jas-publicidad.png" crc="225427311" seo="true" ref="portalatas-y-portabotellas">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="line1-portalatas-y-portabotellas-jas-publicidad.png" crc="223512769" seo="true" ref="portalatas-y-portabotellas">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="img2-portalatas-y-portabotellas-portagafetes-jas-publicidad.png" crc="4188586484" seo="true" ref="portalatas-y-portabotellas">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="img3-portalatas-y-portabotellas-portagafetes-jas-publicidad.png" crc="243388147" seo="true" ref="portalatas-y-portabotellas">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="img4-portalatas-y-portabotellas-portagafetes-jas-publicidad.png" crc="76643424" seo="true" ref="portalatas-y-portabotellas">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+    </file>
+    <file name="check-portagafetes-jas-publicidad.png" crc="169865675" seo="true" ref="portalatas-y-portabotellas:tazas-gorras-y-playeras">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img5-portalatas-y-portabotellas-portagafetes-jas-publicidad.jpg" crc="3809722344" ref="portalatas-y-portabotellas:tazas-gorras-y-playeras">
+      <caption webpage="portalatas-y-portabotellas" alt=""/>
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img1-tazas-playeras-y-gorras-jas-publicidad.png" crc="4222856351" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="line1-tazas-playeras-y-gorras-jas-publicidad.png" crc="4095390206" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img2-tazas-playeras-y-gorras-jas-publicidad.png" crc="3812003752" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="line2-tazas-playeras-y-gorras-jas-publicidad.png" crc="4108281924" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img3-tazas-playeras-y-gorras-jas-publicidad.png" crc="4172191754" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="line3-tazas-playeras-y-gorras-jas-publicidad.png" crc="3780575269" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img4-tazas-playeras-y-gorras-jas-publicidad.png" crc="4065346743" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img5-tazas-playeras-y-gorras-jas-publicidad.png" crc="334518395" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img6-tazas-playeras-y-gorras-jas-publicidad.png" crc="4285986232" seo="true" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="img7-portalatas-tazas-playeras-y-gorras-jas-publicidad.jpg" crc="464234775" ref="tazas-gorras-y-playeras">
+      <caption webpage="tazas-gorras-y-playeras" alt=""/>
+    </file>
+    <file name="maranda-vandergriff-7aakzdil4vg-unsplash.jpg" crc="151485083" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="icon-wtp-contacto-portagafetes-jas-publicidad.png" crc="259298339" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3976313097" seo="true" mt="1652115202594" redirect="true"/>
+  <file name="portagafetes.html" crc="3881128558" seo="true" mt="1652115263811" redirect="true"/>
+  <file name="portalatas-y-portabotellas.html" crc="3797073648" seo="true" mt="1652115263811" redirect="true"/>
+  <file name="tazas-gorras-y-playeras.html" crc="3919006367" seo="true" mt="1652115263811" redirect="true"/>
+  <file name="contacto.html" crc="15375735" seo="true" mt="1652115340580" redirect="true"/>
+</manifest>
